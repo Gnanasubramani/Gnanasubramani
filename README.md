@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gnanasubramani C</h1>
+<h1 align="center">Hi 👋, I'm Gnanasubramani S</h1>
 <h3 align="center">A passionate Java Fullstack Developer from India</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP"> -->
